@@ -57,3 +57,6 @@ Expected Output:
 
   1 3 N
   5 1 E
+  
+  My terminal output:
+  <img width="1440" alt="Screenshot 2021-06-22 at 2 22 15 AM" src="https://user-images.githubusercontent.com/29517012/122883502-e5272f80-d35a-11eb-8c65-cafe949c2ac2.png">
